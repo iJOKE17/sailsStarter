@@ -1,0 +1,10 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"name":"joke","createdAt":1561565257192,"updatedAt":1561565257192,"id":1,"email":"","_id":1}
+{"name":"phrow","createdAt":1561565270051,"updatedAt":1561565270051,"id":2,"email":"","_id":2}
+{"createdAt":1561565273134,"updatedAt":1561565273134,"id":3,"name":"","email":"","_id":3}
+{"name":"joke","createdAt":1561565288996,"updatedAt":1561565288996,"id":4,"email":"","_id":4}
+{"name":"joke","createdAt":1561565289405,"updatedAt":1561565289405,"id":5,"email":"","_id":5}
+{"name":"joke","createdAt":1561565291110,"updatedAt":1561565291110,"id":6,"email":"","_id":6}
+{"name":"joke","email":"joker@gmail.com","createdAt":1561565304190,"updatedAt":1561565304190,"id":7,"_id":7}
+{"name":"Arthorn","email":"arthorn@gmail.com","createdAt":1561565391588,"updatedAt":1561565391588,"id":8,"_id":8}
+{"name":"Arthorn","email":"arthorn@gmail.com","createdAt":1561565394582,"updatedAt":1561565394582,"id":9,"_id":9}
